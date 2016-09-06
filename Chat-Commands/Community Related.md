@@ -28,9 +28,9 @@
 
 ### Caster Command
 
-   **Command :** !caster <twitch username>  
-   **Alias Commands :** !c, !s, !streamer  
-   **Description :** Announce another Broadcaster in chat.  Includes the Broadcaster's Twitch Channel URL and, if set on that Broadcaster's profile, the game they were last playing.  
+**Command :** !caster <twitch username>  
+**Alias Commands :** !c, !s, !streamer  
+**Description :** Announce another Broadcaster in chat.  Includes the Broadcaster's Twitch Channel URL and, if set on that Broadcaster's profile, the game they were last playing.  
 
 
 ### Points Command (SCIENCE!!!)
