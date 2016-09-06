@@ -8,10 +8,10 @@ If there are any inconsistencies within this manual, please make note of them vi
 
 
 
-[RobAndDan.tv](http://RobAndDan.tv) - (forwards to Twitch.tv link)
-[Twitch.tv Channel](http://Twitch.tv/TheRobAndDanShow)
-[YouTube Channel](http://YouTube.com/TheRobAndDanShow)
-[HitBox Channel](http://HitBox.tv/RobAndDan)
-[R&D Email](TheRobAndDanShow@Gmail.com)
-[Twitter](http://Twitter.com/RobAndDan)
-[Facebook](http://Facebook.com/RobAndDan)
+[RobAndDan.tv](http://RobAndDan.tv) - (forwards to Twitch.tv link)  
+[Twitch.tv Channel](http://Twitch.tv/TheRobAndDanShow)  
+[YouTube Channel](http://YouTube.com/TheRobAndDanShow)  
+[HitBox Channel](http://HitBox.tv/RobAndDan)  
+[R&D Email](TheRobAndDanShow@Gmail.com)  
+[Twitter](http://Twitter.com/RobAndDan)  
+[Facebook](http://Facebook.com/RobAndDan)  
