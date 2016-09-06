@@ -31,23 +31,23 @@
 
 ### Caster Command
 
-**Command :** !caster <twitch username>  
-**Alias Commands :** !c, !s, !streamer  
+**Command :** `!caster <twitch username>`  
+**Alias Commands :** `!c`, `!s`, `!streamer`  
 **Permissions :** Broadcaster, Mods  
 **Description :** Announce another Broadcaster in chat.  Includes the Broadcaster's Twitch Channel URL and, if set on that Broadcaster's profile, the game they were last playing.  
 
 
 ### Points Command (SCIENCE!!!)
 
-**Command :** !points  
-**Alias Commands :** !rank, !sciencepoints  
+**Command :** `!points`  
+**Alias Commands :** `!rank`, `!sciencepoints`  
 **Permissions :** Broadcaster, Mods  
 **Description :** Display the users current total Science Points.  
 
 
 ### Add Regular Command
 
-**Command :** !reg <twitch username>  
-**Alias Commands :** !addreg, !regadd  
+**Command :** `!reg <twitch username>`  
+**Alias Commands :** `!addreg`, `!regadd`  
 **Permissions :** Broadcaster, Mods  
 **Description :** Assign "Regular" status to a twitch user.  
