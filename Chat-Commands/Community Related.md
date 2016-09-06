@@ -4,11 +4,11 @@
 
 ### Click2Tweet Command
 
-   **Command :** !ctt <optional hashtag to add>  
-   **Alias Commands:** !tweet  
-   **Description :** Announce a Click2Tweet link in chat.  The optional #hashtag will be appended to the end.  
-   **IMPORTANT 1 :** This command will NOT work if the stream is not live (confirmed via the TwitchAPI, so actual stream status may be delayed)  
-   **IMPORTANT 2 :** **<optional hashtag>** may not be appended if the resulting CTT message would be longer than Twitter's maximum allowed characters per tweet.  
+  **Command :** !ctt <optional hashtag to add>  
+  **Alias Commands:** !tweet  
+  **Description :** Announce a Click2Tweet link in chat.  The optional #hashtag will be appended to the end.  
+  **IMPORTANT 1 :** This command will NOT work if the stream is not live (confirmed via the TwitchAPI, so actual stream status may be delayed)  
+  **IMPORTANT 2 :** **<optional hashtag>** may not be appended if the resulting CTT message would be longer than Twitter's maximum allowed characters per tweet.  
 
 
 ### Links Command
