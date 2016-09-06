@@ -16,10 +16,10 @@ of the 3.
 
 ### AddQuote Command
 
-- **Command :** `!addquote <quoted person> <quoted message [ locale ]>`  
-- **Alias Commands :** `!quoteadd`  
-- **Permissions :** Broadcaster, Mods  
-- **Description :** Add a quote to the quote database.  
+- **Command :** `!addquote <quoted person> <quoted message [ locale ]>`
+- **Alias Commands :** `!quoteadd`
+- **Permissions :** Broadcaster, Mods
+- **Description :** Add a quote to the quote database
 
 - **__Quote Formatting/Style Guide__**  
    - `<quoted person>` MUST be a single word with no spaces.  
